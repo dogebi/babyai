@@ -1,0 +1,4 @@
+User-Agent:*
+Allow: /
+
+Sitemap: https://dongwuface.netlify.app/sitemap.xml
