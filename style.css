@@ -512,5 +512,5 @@ input:checked + label > .knob > i:before {
   left: 0;
   width: 4px;
   height: 18px;
-  background: #0076df;
+  background: #da4453;
 }
